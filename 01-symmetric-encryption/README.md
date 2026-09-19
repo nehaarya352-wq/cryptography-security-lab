@@ -13,7 +13,7 @@ This lab demonstrates symmetric encryption and decryption using the AES-256-CBC 
 
 ## 🔬 Workflow
 
-```text
+text
 Plaintext File
       │
       ▼
