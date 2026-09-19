@@ -1,0 +1,23 @@
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
+*.csr
+
+# GPG private material
+*.gpg
+
+# Encrypted output files
+*.enc
+
+# Temporary files
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
